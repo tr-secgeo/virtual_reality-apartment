@@ -14,5 +14,5 @@ NOT: Bilgisayar ortamın da düzenlediğimiz proje klasörü içerisin de aşağ
  - git config user.name
  - git config user.email
  - git remote -v
- - git remote add origin "https://tr-secgeo.github.io/virtual_reality-apartment.git" 
+ - git remote add origin "https://github.com/tr-secgeo/virtual_reality-apartment.git" 
  - git push -u origin main
