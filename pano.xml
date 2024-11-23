@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20966" hassounds="0" appversion="7.1.6" start="node12">
+  <panorama id="node12" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="2048" overlap="1" leveltilesize="510" levelingroll="0" width="2048">
+      <level height="2048" preload="0" predecode="0" width="2048"/>
+      <level height="1024" preload="0" predecode="0" width="1024"/>
+      <level height="512" preload="0" predecode="0" width="512"/>
+      <level height="256" preload="1" predecode="1" width="256"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-100.097" fovmode="0">
+      <start fov="79.01" pan="7.74" projection="4" tilt="-35.21"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_out" heading="-100.097" latitude="38.361779" customnodeid="" description="" copyright="" source="" altitude="987.63" nodeid="node12" datetime="7.10.2022 14:31" title="Havadan" author="" longitude="34.025647"/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+      <polyhotspot id="Poly01" url="" target="_blank" bordercolor="0x000000" backgroundcolor="0xff0000" backgroundalpha="0.25098" description="" borderalpha="1" title="Satılık Daire">
+        <polystring>-329.34/-59.96|-328.34/-57.75|-336.23/-59.09|-337.29/-58.03|-20.19/-56.06|-20.43/-57.94|-336.92/-59.85|-336.2/-61.01</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="59.1835" fovmode="0">
+      <start fov="66.6" pan="-174.58" projection="4" tilt="-34.01"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="59.1835" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node1" datetime="8.10.2022 11:46" title="Oturma Odası" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="59.18" fovmode="0">
+      <start fov="70" pan="-68.2755" projection="4" tilt="-9.79226"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="59.18" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node2" datetime="8.10.2022 11:49" title="Mutfak" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="155.548" fovmode="0">
+      <start fov="70" pan="-168.515" projection="4" tilt="-8.84562"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="155.548" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node3" datetime="8.10.2022 11:51" title="Koridor" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="150.735" fovmode="0">
+      <start fov="48.8054" pan="-21.3267" projection="4" tilt="-3.55238"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="150.735" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node5" datetime="8.10.2022 11:55" title="Yatak Odası" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="147.233" fovmode="0">
+      <start fov="70" pan="112.558" projection="4" tilt="-23.2678"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="147.233" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node6" datetime="8.10.2022 11:57" title="Çocuk Odası -1" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="147.666" fovmode="0">
+      <start fov="70" pan="33.0903" projection="4" tilt="-43.2694"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="147.666" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node7" datetime="8.10.2022 11:59" title="Tuvalet" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="147.581" fovmode="0">
+      <start fov="70" pan="-119.652" projection="4" tilt="-45.6725"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="147.581" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node8" datetime="8.10.2022 12:01" title="Banyo" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="153.419" fovmode="0">
+      <start fov="70" pan="105.214" projection="4" tilt="-12.6927"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="153.419" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node9" datetime="8.10.2022 12:03" title="Çocuk Odası -2" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-35.2993" fovmode="0">
+      <start fov="84.289" pan="-88.0087" projection="4" tilt="-17.4816"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_in" heading="-35.2993" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node10" datetime="8.10.2022 12:07" title="Daire - Giriş" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="46.3756" fovmode="0">
+      <start fov="70" pan="-88.5972" projection="4" tilt="-2.15768"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_out" heading="46.3756" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node13" datetime="8.10.2022 12:12" title="Ön Bahçe" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" levelingpitch="0" height="1824" overlap="1" leveltilesize="510" levelingroll="0" width="1824">
+      <level height="1824" preload="0" predecode="0" width="1824"/>
+      <level height="912" preload="0" predecode="0" width="912"/>
+      <level height="456" preload="1" predecode="1" width="456"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="77.113" pan="-100.745" projection="4" tilt="-7.17794"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" pan="360" fovfisheye="360" fovstereographic="270" tilt="90" scaletofit="1"/>
+    </view>
+    <userdata comment="" info="" tags="daire_out" heading="0" latitude="" customnodeid="" description="" copyright="" source="" nodeid="node14" datetime="8.10.2022 12:14" title="Zemin Kat - Giriş" author="" longitude=""/>
+    <hotspots smoothmovement="0" wordwrap="1" height="20" width="180">
+      <label background="1" enabled="0" height="20" textcolor="0x000000" bordercolor="0x000000" borderradius="5" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" borderalpha="1" border="1" wordwrap="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" handcursor="1" mode="1" bordercolor="0x000000" backgroundcolor="0xff0000"/>
+      <polyhotspot id="Poly01" url="{node10}" target="" title="Asansör" description="">
+        <polystring>-93.85/14.71|-123.92/11.91|-124.1/-40.8|-94.91/-46.37</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomin="0" blendcolor="0x000000" zoomoutpause="1" enabled="1" type="crossdissolve" delay="none" softedge="0" zoomspeed="2" zoomafterinfov="90" zoomafteroutfov="20" blendtime="1" zoomfov="20" zoomout="0"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control speedwheel="1" lockedmouse="0" contextvr="0" zoomcentercursor="1" simulatemass="1" lockedkeyboardzoom="0" rubberband="0" invertwheel="0" dblclickfullscreen="0" lockedkeyboard="0" invertcontrol="1" lockedwheel="0" hideabout="1" contextfullscreen="0" contextprojections="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" tags="" title="" author="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map id="secmap" index="0" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title=""/>
+  <map id="Map01" index="1" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title=""/>
+  <map id="Map02" index="2" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title=""/>
+  <map id="Map03" index="3" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title=""/>
+  <map id="Map04" index="4" type="web" mapstyle="streets" googlecustomstylecode="" mapmaxzoom="18" mapprovider="openstreetmap" mapurltemplate="http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" title=""/>
+</tour>
